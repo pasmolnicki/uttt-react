@@ -26,7 +26,7 @@ export default function Copyright() {
 						color: 'text.secondary',
 					}}
 				>
-					Made by <strong>IlikeChooros</strong>, all rights
+					Made by <strong>pasmolnicki</strong>, all rights
 					reserved.{' '}
 				</Typography>
 			</div>
@@ -39,7 +39,7 @@ export default function Copyright() {
 				}}
 			>
 				<GithubIcon />
-				<Link color="inherit" href="https://github.com/IlikeChooros">
+				<Link color="inherit" href="https://github.com/pasmolnicki">
 					GitHub
 				</Link>
 			</Box>
